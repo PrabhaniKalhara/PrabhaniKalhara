@@ -1,28 +1,33 @@
 <div align="center">
 
-# Hey there! 👋 I'm Prabhani Kalhara
+# PRABHANI KALHARA
 
-### `Computer Science Undergraduate | Aspiring Software Engineer`
+### COMPUTER SCIENCE UNDERGRADUATE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BDA0E8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+about+Software+Development;Learning+%26+Building+Every+Day;Turning+Ideas+into+Code+%F0%9F%92%9C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Passionate+about+Technology;Learning+%7C+Building+%7C+Growing" />
 
-🌙 *Learning today, building tomorrow.*
+<br/>
+
+`BUILDING IDEAS INTO REALITY.`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" />
 
 </div>
 
----
+## ABOUT ME
 
-## 💜 About Me
+```text
+Name        : Prabhani Kalhara
+Education   : BSc Computer Science
+University  : CINEC Campus, Sri Lanka
+Interests   : Software Engineering | Web Development
+Currently   : Learning, experimenting and building projects.
+Goal        : Becoming a skilled Software Engineer.
+```
 
-- 🎓 Second-year Computer Science undergraduate at CINEC Campus, Sri Lanka.
-- 💻 Interested in Software Engineering and Development.
-- 🌱 Currently improving my programming and problem-solving skills.
-- 🚀 Exploring new technologies and building projects.
-- 🎯 My goal is to become a skilled Software Engineer.
-
----
-
-## 🛠️ Languages & Technologies
+## TECH STACK
 
 <div align="center">
 
@@ -30,64 +35,54 @@
 
 </div>
 
----
-
-## 📊 GitHub Statistics
+## GITHUB STATISTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=c4a7e7&icon_color=c4a7e7&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=c4a7e7&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+## CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=C4A7E7&fire=C4A7E7&currStreakLabel=C4A7E7" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 
 </div>
 
----
-
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&theme=github_dark&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
 
----
-
-## 🌐 Connect With Me
+## CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/prabhani-kalhara-6ba89a311?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-BDA0E8?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" />
 </a>
 
-<a href="https://github.com/PrabhaniKalhara">
-<img src="https://img.shields.io/badge/GitHub-BDA0E8?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" />
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=FFFFFF&style=flat-square" />
 
-<div align="center">
+<br/><br/>
 
-### 💜 Thanks for visiting my profile!
+**THANK YOU FOR VISITING MY PROFILE.**
 
-<img src="https://komarev.com/ghpvc/?username=PrabhaniKalhara&label=Profile%20Views&color=BDA0E8&style=flat" />
-
-*Keep learning. Keep building. Keep growing.*
+`LEARN. BUILD. REPEAT.`
 
 </div>
