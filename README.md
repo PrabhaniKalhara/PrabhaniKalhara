@@ -27,3 +27,11 @@
 - Build real-world projects.
 - Contribute to open-source projects.
 - Become a Software Engineer.
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabhaniKalhara&show_icons=true&theme=tokyonight)
+
+## 🛠️ Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode,mysql)
