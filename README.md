@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<a href="(https://www.linkedin.com/in/prabhani-kalhara-6ba89a311?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/prabhani-kalhara-6ba89a311?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-BDA0E8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
